@@ -31,7 +31,7 @@ Tutorial for install The Sniper Bot.
 6. Download the repository using the command: 
    - https://github.com/X-abre/X-abre_snipe_bot.git.
 7. Change to the repository directory using the command: 
-   - cd Pancakeswap_BSC_Sniper_Bot.
+   - cd X-abre_snipe_bot.
 8. Install and build the Python3 dependencies using the command:
    - python3 -m pip install -r requirements.txt
 ​
